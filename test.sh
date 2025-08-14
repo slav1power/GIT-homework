@@ -1,4 +1,5 @@
 #!/bin/bash
 echo 'i love spagetti'
 
-echo 'ave christos'
+echo 'ave christos rex'
+
